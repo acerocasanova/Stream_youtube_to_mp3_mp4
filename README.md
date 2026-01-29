@@ -26,6 +26,8 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 FFmpeg: Herramienta esencial para la transcodificación de audio y video. Sin ella, el sistema no podrá unir las pistas de audio y video o convertir a MP3.
 
+¡Indicaciones de instalación!
+
 PowerShell
 winget install ffmpeg
 
